@@ -1,21 +1,36 @@
 # Blog-DAILY-JOURNAL
 
-# Home page
-
 ![Screenshot (69)](https://user-images.githubusercontent.com/98008756/175225744-f64882b1-e18a-4d1b-b0e6-1a13378f090f.png)
 
-# About 
+## Getting Started 🎧
 
-![Screenshot (70)](https://user-images.githubusercontent.com/98008756/175226013-8178f2d7-b6f4-466b-8015-9658cae86d6a.png)
+This project utilized the benefits of multiple technologies such as Javascript, HTML5, CSS, and SCSS.
 
-# Contact
+It's better if we familiarize ourselves with these technologies. 
 
-![Screenshot (71)](https://user-images.githubusercontent.com/98008756/175226500-8fcba2bb-d7dd-46d6-9449-5422e62dd258.png)
+### Prerequisites
+[![Stay Motivated](https://img.shields.io/badge/Stay-Motivated-teal.svg?style=for-the-badge)](https://www.twitter.com/chowdarys_lad/) [![Think Big](https://img.shields.io/badge/Think-Big-orange.svg?style=for-the-badge)](https://www.linkedin.com/in/chowdaryslad/) [![Work Hard](https://img.shields.io/badge/Work-Hard-blue.svg?style=for-the-badge)](https://github.com/chowdaryslad)
 
-# Compose
+There is no need for any software for running the project! The editor and package manager are all at your discretion. 
 
-![Screenshot (72)](https://user-images.githubusercontent.com/98008756/175226544-67f95bf9-d5e3-4872-9ae5-5c5cae49c5b0.png)
+## Installing☔
 
-# Post
+It is pretty straightforward :
 
-![Screenshot (73)](https://user-images.githubusercontent.com/98008756/175226570-476f08d5-ae0e-4c8f-885e-cd188b54537e.png)
+**Clone the repo:** 
+```
+git clone <repository Url>
+```
+
+## Deployment 💡
+[![Stay Motivated](https://img.shields.io/badge/Stay-Motivated-teal.svg?style=for-the-badge)](https://www.twitter.com/chowdarys_lad/) [![Think Big](https://img.shields.io/badge/Think-Big-orange.svg?style=for-the-badge)](https://www.linkedin.com/in/chowdaryslad/) [![Work Hard](https://img.shields.io/badge/Work-Hard-blue.svg?style=for-the-badge)](https://github.com/chowdaryslad)
+
+**Run the application** 
+```
+Use live server extension in vs code.
+```
+
+## Acknowledgments 💖
+
+* To my family👪  and friends 👫 who always kept me motivated.
+* To the community of computer science 💻.
